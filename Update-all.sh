@@ -10,7 +10,7 @@ if ! command -v apt-get &>/dev/null; then
   echo "<the_command> could not be found"
 fi
 if ! command -v pacman &>/dev/null; then
-  sudp pacman -Syu
+  sudo pacman -Syu
 fi
 
 flatpak update
