@@ -1,1 +1,1 @@
-[]pacman support
+- []pacman support
