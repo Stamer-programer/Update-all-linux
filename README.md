@@ -9,5 +9,5 @@ Just a small .sh script that updates everything.
 # Install guide
 first install .sh script
 ```console
-curl -O Update-all.sh https://raw.githubusercontent.com/Stamer-programer/Update-all-linux/blob/main/Update-all.sh
+curl -O https://raw.githubusercontent.com/Stamer-programer/Update-all-linux/blob/main/Update-all.sh
 ```
