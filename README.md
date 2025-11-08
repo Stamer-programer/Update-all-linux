@@ -6,6 +6,8 @@ Just a small .sh script that updates everything.
 - [ ] dnf support
 - [ ] yay support
 
+![Alt Text](https://github.com/Stamer-programer/Update-all-linux/blob/main/gif/Running.gif?raw=true)
+
 # Install guide
 ### first install .sh script
 ```console
