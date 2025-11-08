@@ -4,7 +4,7 @@ pkgrel=1
 pkgdesc="Auto updates"
 arch=('any')
 license=('GPL')
-depends=('dependency1' 'dependency2')
+depends=('bash')
 source=("your-script.sh")
 sha256sums=('SKIP')  # Replace with actual checksum if needed
 
