@@ -1,1 +1,13 @@
-- [ ] pacman support
+Just a small .sh script that updates everything.
+
+- [x] pacman support
+- [x] apt support
+- [x] flatpak support
+- [ ] dnf support
+- [ ] yay support
+
+# Install guide
+first install .sh script
+```console
+curl -O Update-all.sh https://raw.githubusercontent.com/Stamer-programer/Update-all-linux/blob/main/Update-all.sh
+```
