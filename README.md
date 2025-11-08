@@ -7,7 +7,20 @@ Just a small .sh script that updates everything.
 - [ ] yay support
 
 # Install guide
-first install .sh script
+### first install .sh script
 ```console
 curl -O https://raw.githubusercontent.com/Stamer-programer/Update-all-linux/blob/main/Update-all.sh
 ```
+### rename Update-all.sh to Update-all
+```console
+mv Update-all.sh Update-all
+```
+### Make Script Executable
+```console
+chmod +x Update-all
+```
+### Move Script to /usr/local/bin so you can execute it from anywhere
+```console
+sudo mv Update-all /usr/local/bin
+```
+## And Thats all!
