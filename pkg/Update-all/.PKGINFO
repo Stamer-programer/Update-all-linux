@@ -6,9 +6,9 @@ xdata = pkgtype=pkg
 pkgver = 1.0.0-1
 pkgdesc = Auto updates
 url = 
-builddate = 1762645925
+builddate = 1762646278
 packager = Unknown Packager
-size = 319
+size = 313
 arch = any
 license = GPL
 depend = bash
