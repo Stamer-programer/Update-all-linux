@@ -12,5 +12,6 @@ fi
 if command -v pacman &>/dev/null; then
   sudo pacman -Syu
 fi
-
+if command -v flatpak &>/dev/null; then
 flatpak update
+fi
